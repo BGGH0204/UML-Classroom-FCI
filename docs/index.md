@@ -27,10 +27,10 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Aluno 1 Beatris Barboza
+* Aluno 2 Gabriel Pereira Faravola
+* Aluno 3 Guilherme Haddad Borro
+* Aluno 4 Henrique Jeam
 * Aluno 5
 * Aluno 6
 * Aluno 7
