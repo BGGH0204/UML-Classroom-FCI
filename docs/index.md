@@ -39,7 +39,7 @@
 # Análise de Requisitos Funcionais e Não-Funcionais
 Requisitos Funcionais:
 
-<ins>1. Central de Controle</ins>
+1. <ins>Central de Controle</ins>
 
     RF1: O sistema deve fornecer uma interface para gerenciamento de frotas de drones.
 
