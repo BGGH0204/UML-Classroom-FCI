@@ -41,19 +41,16 @@ Requisitos Funcionais:
 
 | ID | RF | Descrição |
 |-|-|-|
-|RF1| | O sistema deve fornecer uma interface para gerenciamento de frotas de drones.|
-|RF2| | O sistema deve permitir o controle remoto e autônomo dos drones.|  
-|RF3| | Deve haver um dashboard em tempo real com informações de telemetria.|
-|RF4| | O sistema deve utilizar sensores LIDAR, câmeras e GPS para sensoriamento do ambiente.|
-|RF5| | O sistema deve detectar e evitar ameaças em tempo real.|
-|RF6| | Os drones devem operar de forma autônoma utilizando redes neurais.|
-|RF7| | O sistema deve implementar protocolos para comunicação segura e em tempo real com os drones.|
-|RF8| | Deve haver mecanismos de fallback para evitar perda de conexão.|
-|RF9| | O sistema deve armazenar logs de missões realizadas e eventos críticos.|
-|RF10| | A base de dados deve utilizar criptografia de ponta e assinaturas digitais.|
-|RF11| | O sistema deve ser capaz de armazenar dados em um banco NoSQL distribuído para suporte em tempo real.|
-|RF12| | O sistema deve permitir autenticação de operadores via biometria e autenticação multifator.|
-|RF13| | O sistema deve monitorar os processos do SO embarcado para evitar falhas.|
+|RF1| Autenticação de Operadores| O sistema deve permitir a autenticação dos operadores utilizando biometria e autenticação multifator (MFA).|
+|RF2| Controle de frotas| O sistema deve possibilitar o gerenciamento remoto e autônomo de múltiplos drones simultaneamente.|  
+|RF3| Interface de comando e controle| Deve existir uma interface gráfica para os operadores visualizarem telemetria, status e executar comandos sobre os drones.|
+|RF4| Navegação autônoma| Os drones devem ser capazes de realizar missões táticas sem intervenção humana, utilizando sensores como LIDAR, GPS e visão computacional.|
+|RF5| Comunicação Segura| A troca de informações entre os drones e o sistema de controle deve ser realizada utilizando criptografia ponta a ponta.|
+|RF6| Registro de Missões| O sistema deve registrar dados de cada missão, incluindo logs detalhados das operações realizadas.|
+|RF7| Monitoramento em Tempo Real| Os drones devem transmitir dados de telemetria, status e eventos críticos continuamente para o sistema central.|
+|RF8| Gerenciamento de Atualizações| O sistema deve permitir a atualização remota de firmware dos drones, garantindo segurança e conformidade operacional.|
+|RF9| Failover e Recuperação| Em caso de falha de servidor, o sistema deve permitir o redirecionamento automático das operações para um servidor de backup.|
+|RF10| Auditoria de Eventos| Todos os acessos e comandos devem ser armazenados em logs de auditoria imutáveis para fins de segurança e conformidade.|
 
 Requisitos Não Funcionais:
 
