@@ -48,7 +48,6 @@ Requisitos Funcionais:
    |RF4| O sistema deve utilizar sensores LIDAR, câmeras e GPS para sensoriamento do ambiente.|
    |-|-|
    |RF5| O sistema deve detectar e evitar ameaças em tempo real.|
-   |-|-|
    |RF6| Os drones devem operar de forma autônoma utilizando redes neurais.|
     |-|-|
     |RF7| O sistema deve implementar protocolos para comunicação segura e em tempo real com os drones.|
