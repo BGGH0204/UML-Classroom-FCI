@@ -54,35 +54,18 @@ Requisitos Funcionais:
 
 Requisitos Não Funcionais:
 
-1. <ins>Desempenho e Escalabilidade</ins>
-
-    RNF1: O sistema deve garantir baixa latência na comunicação com os drones.
-
-    RNF2: Deve suportar o controle simultâneo de múltiplos drones sem degradação de desempenho.
-
-    RNF3: O sistema deve suportar failover automático para garantir disponibilidade contínua.
-
-2. <ins>Segurança</ins>
-
-    RNF4: O sistema deve garantir criptografia robusta para proteger os dados e as comunicações.
-
-    RNF5: Os logs de auditoria devem ser imutáveis e armazenados com alta disponibilidade.
-
-    RNF6: O sistema deve ser capaz de resistir a tentativas de invasão e controle não autorizado.
-
-3. <ins>Integridade e Confiabilidade</ins>
-
-    RNF7: Os dados dos drones devem ser sincronizados em tempo real para evitar inconsistências.
-
-    RNF8: O histórico de missões deve ser armazenado de forma segura para auditorias e análises preditivas.
-
-    RNF9: O banco de dados distribuído deve garantir a replicação automática dos dados.
-
-4. <ins>Concorrência e Sistemas Operacionais</ins>
-
-    RNF10: O sistema operacional embarcado deve suportar múltiplas threads para sensores, navegação e IA.
-
-    RNF11: O sistema deve priorizar processos conforme o status crítico da missão.*
+|ID | RNF | DESCRIÇÃO |
+|-|-|
+|RNF1| Segurança| O sistema deve implementar criptografia AES-256 para armazenamento de dados e TLS para comunicação.|
+|RNF2| Desempenho| A latência da comunicação entre um drone e o sistema não pode ultrapassar 50ms em condições normais.|
+|RNF3| Disponibilidade| O sistema deve estar disponível 24/7, com 99,9% de uptime, garantindo operação contínua em missões críticas.|
+|RNF4 Escalabilidade A arquitetura deve permitir a adição de novos drones eservidores sem comprometer a performance e segurança.|
+|RNF5| Armazenamento Distribuído| O banco de dados deve ser replicado geograficamente para garantir redundância e integridade dos dados.|
+|RNF6 |Conformidade (Boas Práticas)| O sistema deve atender a padrões de segurança como ISO 27001 e NIST 800-53 para segurança cibernética.|
+|RNF7| Resiliência| O sistema deve garantir recuperação automática de falhas em até 05 segundos sem perda de dados.|
+|RNF8| Tolerância a Falhas| A arquitetura deve suportar balanceamento de carga e replicação para evitar pontos únicos de falha.|
+|RNF9| Eficiência Energética| Os drones devem otimizar o consumo de bateria utilizando algoritmos de inteligência artificial para gestão de energia.|
+|RNF10| Log e Auditoria| Os logs devem ser armazenados por no mínimo 05 anos e protegidos contra alteração ou exclusão.|
 
 # Diagrama de Atividades
 
