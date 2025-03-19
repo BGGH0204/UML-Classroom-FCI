@@ -38,7 +38,7 @@
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 
-# Requisitos Funcionais:
+**Requisitos Funcionais:**
 | ID | RF | Descrição |
 |-|-|-|
 |RF1| Autenticação de Operadores| O sistema deve permitir a autenticação dos operadores utilizando biometria e autenticação multifator (MFA).|
@@ -53,7 +53,7 @@
 |RF10| Auditoria de Eventos| Todos os acessos e comandos devem ser armazenados em logs de auditoria imutáveis para fins de segurança e conformidade.|
 
 
-# Requisitos Não Funcionais:
+ # **Requisitos Não Funcionais:**
 |ID | RNF | Descrição |
 |-|-|-|
 |RNF1| Segurança| O sistema deve implementar criptografia AES-256 para armazenamento de dados e TLS para comunicação.|
