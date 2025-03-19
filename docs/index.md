@@ -41,40 +41,39 @@ Requisitos Funcionais:
 
 1. <ins>Central de Controle</ins>
     |RF1| O sistema deve fornecer uma interface para gerenciamento de frotas de drones.|
-    |----|------------------------------------------------------------------------------|
-    |RF2:| O sistema deve permitir o controle remoto e autônomo dos drones.|                             
-    |RF3:| Deve haver um dashboard em tempo real com informações de telemetria.|
+    |-|-|
+    |RF2| O sistema deve permitir o controle remoto e autônomo dos drones.|                             
+    |RF3| Deve haver um dashboard em tempo real com informações de telemetria.|
 
-3. Sistema de Navegação Inteligente
+3. <ins>Sistema de Navegação Inteligente</ins>
 
-   |RF4:| O sistema deve utilizar sensores LIDAR, câmeras e GPS para sensoriamento do ambiente.|
-   |----|-|
-   |RF5:| O sistema deve detectar e evitar ameaças em tempo real.|
-   |RF6:| Os drones devem operar de forma autônoma utilizando redes neurais.|
+   |RF4| O sistema deve utilizar sensores LIDAR, câmeras e GPS para sensoriamento do ambiente.|
+   |-|-|
+   |RF5| O sistema deve detectar e evitar ameaças em tempo real.|
+   |RF6| Os drones devem operar de forma autônoma utilizando redes neurais.|
 
-4. Gerenciamento de Comunicação
+4. <ins>Gerenciamento de Comunicação</ins>
 
-    |RF7:| O sistema deve implementar protocolos para comunicação segura e em tempo real com os drones.|
+    |RF7| O sistema deve implementar protocolos para comunicação segura e em tempo real com os drones.|
+    |-|-|
+    |RF8| Deve haver mecanismos de fallback para evitar perda de conexão.|
 
-    |RF8:| Deve haver mecanismos de fallback para evitar perda de conexão.|
+6. <ins>Banco de Dados e Auditoria</ins>
 
-5. Banco de Dados e Auditoria
+    |RF9| O sistema deve armazenar logs de missões realizadas e eventos críticos.|
+    |-|-|
+    |RF10| A base de dados deve utilizar criptografia de ponta e assinaturas digitais.|
+    |RF11| O sistema deve ser capaz de armazenar dados em um banco NoSQL distribuído para suporte em tempo real.|
 
-    RF9: O sistema deve armazenar logs de missões realizadas e eventos críticos.
+8. <ins>Sistemas Embarcados e Segurança</ins>
 
-    RF10: A base de dados deve utilizar criptografia de ponta e assinaturas digitais.
-
-    RF11: O sistema deve ser capaz de armazenar dados em um banco NoSQL distribuído para suporte em tempo real.
-
-6. Sistemas Embarcados e Segurança
-
-    RF12: O sistema deve permitir autenticação de operadores via biometria e autenticação multifator.
-
-    RF13: O sistema deve monitorar os processos do SO embarcado para evitar falhas.
+    |RF12| O sistema deve permitir autenticação de operadores via biometria e autenticação multifator.|
+    |-|-|
+    |RF13| O sistema deve monitorar os processos do SO embarcado para evitar falhas.|
 
 Requisitos Não Funcionais:
 
-1. Desempenho e Escalabilidade
+1. <ins>Desempenho e Escalabilidade</ins>
 
     RNF1: O sistema deve garantir baixa latência na comunicação com os drones.
 
@@ -82,7 +81,7 @@ Requisitos Não Funcionais:
 
     RNF3: O sistema deve suportar failover automático para garantir disponibilidade contínua.
 
-2. Segurança
+2. <ins>Segurança</ins>
 
     RNF4: O sistema deve garantir criptografia robusta para proteger os dados e as comunicações.
 
@@ -90,7 +89,7 @@ Requisitos Não Funcionais:
 
     RNF6: O sistema deve ser capaz de resistir a tentativas de invasão e controle não autorizado.
 
-3. Integridade e Confiabilidade
+3. <ins>Integridade e Confiabilidade</ins>
 
     RNF7: Os dados dos drones devem ser sincronizados em tempo real para evitar inconsistências.
 
@@ -98,7 +97,7 @@ Requisitos Não Funcionais:
 
     RNF9: O banco de dados distribuído deve garantir a replicação automática dos dados.
 
-4. Concorrência e Sistemas Operacionais
+4. <ins>Concorrência e Sistemas Operacionais</ins>
 
     RNF10: O sistema operacional embarcado deve suportar múltiplas threads para sensores, navegação e IA.
 
