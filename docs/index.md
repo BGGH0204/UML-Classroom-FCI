@@ -41,19 +41,26 @@ Requisitos Funcionais:
 
     |RF1| O sistema deve fornecer uma interface para gerenciamento de frotas de drones.|
     |-|-|
-    |RF2| O sistema deve permitir o controle remoto e autônomo dos drones.|                             
+    |RF2| O sistema deve permitir o controle remoto e autônomo dos drones.|  
+    |-|-|
     |RF3| Deve haver um dashboard em tempo real com informações de telemetria.|
+    |-|-|
    |RF4| O sistema deve utilizar sensores LIDAR, câmeras e GPS para sensoriamento do ambiente.|
    |-|-|
    |RF5| O sistema deve detectar e evitar ameaças em tempo real.|
+   |-|-|
    |RF6| Os drones devem operar de forma autônoma utilizando redes neurais.|
+    |-|-|
     |RF7| O sistema deve implementar protocolos para comunicação segura e em tempo real com os drones.|
     |-|-|
     |RF8| Deve haver mecanismos de fallback para evitar perda de conexão.|
+    |-|-|
     |RF9| O sistema deve armazenar logs de missões realizadas e eventos críticos.|
     |-|-|
     |RF10| A base de dados deve utilizar criptografia de ponta e assinaturas digitais.|
+    |-|-|
     |RF11| O sistema deve ser capaz de armazenar dados em um banco NoSQL distribuído para suporte em tempo real.|
+    |-|-|
     |RF12| O sistema deve permitir autenticação de operadores via biometria e autenticação multifator.|
     |-|-|
     |RF13| O sistema deve monitorar os processos do SO embarcado para evitar falhas.|
