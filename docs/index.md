@@ -27,7 +27,7 @@
 
 # Autores
 
-* Aluno 1 Beatris Barboza
+* Aluno 1 Beatriz Barbosa
 * Aluno 2 Gabriel Pereira Faravola
 * Aluno 3 Guilherme Haddad Borro
 * Aluno 4 Henrique Jeam
@@ -55,7 +55,7 @@ Requisitos Funcionais:
 Requisitos Não Funcionais:
 
 |ID | RNF | DESCRIÇÃO |
-|-|-|
+|-|-|-|
 |RNF1| Segurança| O sistema deve implementar criptografia AES-256 para armazenamento de dados e TLS para comunicação.|
 |RNF2| Desempenho| A latência da comunicação entre um drone e o sistema não pode ultrapassar 50ms em condições normais.|
 |RNF3| Disponibilidade| O sistema deve estar disponível 24/7, com 99,9% de uptime, garantindo operação contínua em missões críticas.|
