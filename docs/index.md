@@ -37,73 +37,75 @@
 *A Securus Dynamics está desenvolvendo o Falcão Sombrio, um novo sistema que permitirá o controle remoto e autônomo de seus drones por meio de uma rede de servidores distribuídos e uma interface avançada. O projeto enfrenta desafios como segurança, concorrência e tempo real nos sistemas operacionais, além de questões de armazenamento distribuído, replicação e auditoria nos bancos de dados. Diante de falhas na arquitetura atual, a empresa contratou a Consultoria Cyber Bullet System (Turma 4G) para reformular toda a estrutura de software e definir um novo modelo de banco de dados que suporte as operações críticas dos drones.*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*Requisitos Funcionais:
+Requisitos Funcionais:
+
 1. Central de Controle
 
-RF1: O sistema deve fornecer uma interface para gerenciamento de frotas de drones.
+    RF1: O sistema deve fornecer uma interface para gerenciamento de frotas de drones.
 
-RF2: O sistema deve permitir o controle remoto e autônomo dos drones.
+    RF2: O sistema deve permitir o controle remoto e autônomo dos drones.
 
-RF3: Deve haver um dashboard em tempo real com informações de telemetria.
+    RF3: Deve haver um dashboard em tempo real com informações de telemetria.
+
 2. Sistema de Navegação Inteligente
 
-RF4: O sistema deve utilizar sensores LIDAR, câmeras e GPS para sensoriamento do ambiente.
+    RF4: O sistema deve utilizar sensores LIDAR, câmeras e GPS para sensoriamento do ambiente.
 
-RF5: O sistema deve detectar e evitar ameaças em tempo real.
+    RF5: O sistema deve detectar e evitar ameaças em tempo real.
 
-RF6: Os drones devem operar de forma autônoma utilizando redes neurais.
+    RF6: Os drones devem operar de forma autônoma utilizando redes neurais.
 
 3. Gerenciamento de Comunicação
 
-RF7: O sistema deve implementar protocolos para comunicação segura e em tempo real com os drones.
+    RF7: O sistema deve implementar protocolos para comunicação segura e em tempo real com os drones.
 
-RF8: Deve haver mecanismos de fallback para evitar perda de conexão.
+    RF8: Deve haver mecanismos de fallback para evitar perda de conexão.
 
 4. Banco de Dados e Auditoria
 
-RF9: O sistema deve armazenar logs de missões realizadas e eventos críticos.
+    RF9: O sistema deve armazenar logs de missões realizadas e eventos críticos.
 
-RF10: A base de dados deve utilizar criptografia de ponta e assinaturas digitais.
+    RF10: A base de dados deve utilizar criptografia de ponta e assinaturas digitais.
 
-RF11: O sistema deve ser capaz de armazenar dados em um banco NoSQL distribuído para suporte em tempo real.
+    RF11: O sistema deve ser capaz de armazenar dados em um banco NoSQL distribuído para suporte em tempo real.
 
 5. Sistemas Embarcados e Segurança
 
-RF12: O sistema deve permitir autenticação de operadores via biometria e autenticação multifator.
+    RF12: O sistema deve permitir autenticação de operadores via biometria e autenticação multifator.
 
-RF13: O sistema deve monitorar os processos do SO embarcado para evitar falhas.
+    RF13: O sistema deve monitorar os processos do SO embarcado para evitar falhas.
 
 Requisitos Não Funcionais:
 
 1. Desempenho e Escalabilidade
 
-RNF1: O sistema deve garantir baixa latência na comunicação com os drones.
+    RNF1: O sistema deve garantir baixa latência na comunicação com os drones.
 
-RNF2: Deve suportar o controle simultâneo de múltiplos drones sem degradação de desempenho.
+    RNF2: Deve suportar o controle simultâneo de múltiplos drones sem degradação de desempenho.
 
-RNF3: O sistema deve suportar failover automático para garantir disponibilidade contínua.
+    RNF3: O sistema deve suportar failover automático para garantir disponibilidade contínua.
 
 2. Segurança
 
-RNF4: O sistema deve garantir criptografia robusta para proteger os dados e as comunicações.
+    RNF4: O sistema deve garantir criptografia robusta para proteger os dados e as comunicações.
 
-RNF5: Os logs de auditoria devem ser imutáveis e armazenados com alta disponibilidade.
+    RNF5: Os logs de auditoria devem ser imutáveis e armazenados com alta disponibilidade.
 
-RNF6: O sistema deve ser capaz de resistir a tentativas de invasão e controle não autorizado.
+    RNF6: O sistema deve ser capaz de resistir a tentativas de invasão e controle não autorizado.
 
 3. Integridade e Confiabilidade
 
-RNF7: Os dados dos drones devem ser sincronizados em tempo real para evitar inconsistências.
+    RNF7: Os dados dos drones devem ser sincronizados em tempo real para evitar inconsistências.
 
-RNF8: O histórico de missões deve ser armazenado de forma segura para auditorias e análises preditivas.
+    RNF8: O histórico de missões deve ser armazenado de forma segura para auditorias e análises preditivas.
 
-RNF9: O banco de dados distribuído deve garantir a replicação automática dos dados.
+    RNF9: O banco de dados distribuído deve garantir a replicação automática dos dados.
 
 4. Concorrência e Sistemas Operacionais
 
-RNF10: O sistema operacional embarcado deve suportar múltiplas threads para sensores, navegação e IA.
+    RNF10: O sistema operacional embarcado deve suportar múltiplas threads para sensores, navegação e IA.
 
-RNF11: O sistema deve priorizar processos conforme o status crítico da missão.*
+    RNF11: O sistema deve priorizar processos conforme o status crítico da missão.*
 
 # Diagrama de Atividades
 
