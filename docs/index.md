@@ -31,11 +31,6 @@
 * Aluno 2 Gabriel Pereira Faravola
 * Aluno 3 Guilherme Haddad Borro
 * Aluno 4 Henrique Jeam
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
 
 # Descrição do Projeto
 
