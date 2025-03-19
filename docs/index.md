@@ -44,7 +44,7 @@ Requisitos Funcionais:
     |RF1| O sistema deve fornecer uma interface para gerenciamento de frotas de drones.|
     |---|------------------------------------------------------------------------------|
     |RF2:| O sistema deve permitir o controle remoto e autônomo dos drones.|
-
+    |---|--------------------------------------------------------------------|                             
     |RF3:| Deve haver um dashboard em tempo real com informações de telemetria.|
 
 2. Sistema de Navegação Inteligente
