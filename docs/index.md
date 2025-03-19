@@ -59,7 +59,7 @@ Requisitos Não Funcionais:
 |RNF1| Segurança| O sistema deve implementar criptografia AES-256 para armazenamento de dados e TLS para comunicação.|
 |RNF2| Desempenho| A latência da comunicação entre um drone e o sistema não pode ultrapassar 50ms em condições normais.|
 |RNF3| Disponibilidade| O sistema deve estar disponível 24/7, com 99,9% de uptime, garantindo operação contínua em missões críticas.|
-|RNF4 Escalabilidade A arquitetura deve permitir a adição de novos drones eservidores sem comprometer a performance e segurança.|
+|RNF4| Escalabilidade| A arquitetura deve permitir a adição de novos drones eservidores sem comprometer a performance e segurança.|
 |RNF5| Armazenamento Distribuído| O banco de dados deve ser replicado geograficamente para garantir redundância e integridade dos dados.|
 |RNF6 |Conformidade (Boas Práticas)| O sistema deve atender a padrões de segurança como ISO 27001 e NIST 800-53 para segurança cibernética.|
 |RNF7| Resiliência| O sistema deve garantir recuperação automática de falhas em até 05 segundos sem perda de dados.|
