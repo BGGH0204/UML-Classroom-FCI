@@ -27,10 +27,10 @@
 
 # Autores
 
-* Aluno 1 Beatriz Barbosa
+* Aluno 1 Beatriz Aparcida de Mello Barbosa
 * Aluno 2 Gabriel Pereira Faravola
 * Aluno 3 Guilherme Haddad Borro
-* Aluno 4 Henrique Jeam
+* Aluno 4 Henrique Jeam Ferreira Lima
 
 # Descrição do Projeto
 
