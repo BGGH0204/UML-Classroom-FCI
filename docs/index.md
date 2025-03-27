@@ -69,7 +69,8 @@
 
 # Diagrama de Atividades
 
-![CentraldeControle (1)](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G1nZ6Vlh2iQfzh_uKN636m9TpyKhrElUCt)
+![CentraldeControle (1)](![DiagramaGabriel drawio](https://github.com/user-attachments/assets/3c869382-9ab0-4412-8f37-24bbecf2ea8f)
+)
 
 # Diagrama de Casos de Uso
 
