@@ -69,7 +69,7 @@
 
 # Diagrama de Atividades
 
-(![DiagramaGabriel drawio](https://github.com/user-attachments/assets/3c869382-9ab0-4412-8f37-24bbecf2ea8f))
+![DiagramaGabriel drawio](https://github.com/user-attachments/assets/3c869382-9ab0-4412-8f37-24bbecf2ea8f)
 
 # Diagrama de Casos de Uso
 
