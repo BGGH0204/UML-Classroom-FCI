@@ -68,7 +68,8 @@
 |RNF10| Log e Auditoria| Os logs devem ser armazenados por no mínimo 05 anos e protegidos contra alteração ou exclusão.|
 
 # Diagrama de Atividades
-![diagrama](https://github.com/user-attachments/assets/e2ee9e9f-dec4-4be0-8b93-3581725e7bd4)
+
+![diagrama](https://github.com/user-attachments/assets/3441ac48-9478-4d90-aee6-326a47ad287d)
 
 # Diagrama de Casos de Uso
 
