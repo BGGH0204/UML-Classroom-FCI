@@ -73,7 +73,8 @@
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![DiagramaCasosDeUso drawio](https://github.com/user-attachments/assets/3f0f3ae7-3f0a-455d-81d5-bb39697569fc)
+
 
 # Descrição dos Casos de Uso
 
