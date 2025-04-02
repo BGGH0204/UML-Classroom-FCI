@@ -73,7 +73,7 @@
 
 # Diagrama de Casos de Uso
 
-![DiagramaCasosDeUso drawio](https://github.com/user-attachments/assets/3f0f3ae7-3f0a-455d-81d5-bb39697569fc)
+![CasosDeUso](https://github.com/user-attachments/assets/6f8e62ce-7976-4843-aa66-bbe842688690)
 
 
 # Descrição dos Casos de Uso
