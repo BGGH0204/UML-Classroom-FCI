@@ -80,7 +80,7 @@
 
  <ins> **Requisitos dos Casos de Uso:** </ins>
 |Ator | Descrição |
-|-|-|-|
+|-|-|
 |Operador|Este ator inicializa o sistema, liga o drone, controla e decide se deve efetuar a missão manualmente ou trocar para controle autônomo.|
 |IA|Este ator tem a função de prosseguir com a missão efetuando todas as ações necessárias para que seja concluida com sucesso e deve retornar a base de controle|
 
