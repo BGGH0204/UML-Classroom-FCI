@@ -82,6 +82,28 @@
 |Ator | Descrição |
 |-|-|
 |Operador|Este ator inicializa o sistema, liga o drone, controla e decide se deve efetuar a missão manualmente ou trocar para controle autônomo.|
+|-|1- O operador fornece credenciais de acesso.|
+|-|2- O sistema verifica a autenticidade das informações.|
+|-|3- O operador é autenticado com sucesso.|
+|-|4- Somente operadores autorizados podem acessar o sistema.|
+|-|5- O drone deve estar fisicamente disponível.|
+|-|6- O operador liga o drone.|
+|-|7- O sistema realiza checagem dos componentes.|
+|-|8- Sensores, GPS e bateria são verificados.|
+|-|9- O sistema é iniciado e pronto para uso.|
+|-|10- Nenhuma missão pode ser iniciada sem a inicialização completa do sistema.|
+|-|11- O operador seleciona o modo manual.|
+|-|12- O sistema transfere o controle da IA para o operador.|
+|-|13- O operador envia comandos em tempo real.|
+|-|14- O controle manual deve ser possível a qualquer momento por questões de segurança.|
+|-|15- O operador mantém o envio de comandos.|
+|-|16- O sistema continua executando os comandos em tempo real.|
+|-|17- O operador finaliza a operação ou troca para modo automático.|
+|-|18- O operador seleciona o modo autônomo.|
+|-|19- A IA deve estar operacional para assumir o controle.|
+|-|20- O sistema transfere o controle do operador para a IA.|
+|-|21- A IA retoma ou inicia o controle de voo.|
+|-|-|
 |IA|1- A missão é atribuída à IA.|
 |-|2- A IA determina as coordenadas do local da missão.|
 |-|3- O drone decola e inicia o deslocamento.|
