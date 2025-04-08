@@ -81,8 +81,7 @@
  <ins> **Requisitos dos Casos de Uso:** </ins>
 |Ator | Descrição |
 |-|-|
-|Operador|Este ator inicializa o sistema, liga o drone, controla e decide se deve efetuar a missão manualmente ou trocar para controle autônomo.|
-|-|1- O operador fornece credenciais de acesso.|
+|Operador|1- O operador fornece credenciais de acesso.|
 |-|2- O sistema verifica a autenticidade das informações.|
 |-|3- O operador é autenticado com sucesso.|
 |-|4- Somente operadores autorizados podem acessar o sistema.|
