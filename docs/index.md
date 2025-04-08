@@ -82,7 +82,8 @@
 |Ator | Descrição |
 |-|-|
 |Operador|Este ator inicializa o sistema, liga o drone, controla e decide se deve efetuar a missão manualmente ou trocar para controle autônomo.|
-|IA|O drone identifica a tarefa definida para a missão. A IA inicia a execução da tarefa. A tarefa é monitorada até sua conclusão. Os dados sao registrados e armazenados (caso tenha dados)|
+|IA|O drone identifica a tarefa definida para a missão. 
+A IA inicia a execução da tarefa. A tarefa é monitorada até sua conclusão. Os dados sao registrados e armazenados (caso tenha dados)|
 
 # Diagrama de Sequência
 
