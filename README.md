@@ -22,6 +22,10 @@ A seguir, os passos para a preparação do projeto:
 # Projeto: *Sistema Falcão Sombrio para Drones*
 
 # Grupo: *BGGH*
+Aluno 1 Beatriz Aparcida de Mello Barbosa
+Aluno 2 Gabriel Pereira Faravola
+Aluno 3 Guilherme Haddad Borro
+Aluno 4 Henrique Jeam Ferreira Lima
 
 # Descrição
 
