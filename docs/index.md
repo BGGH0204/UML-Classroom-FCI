@@ -122,7 +122,7 @@
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Sequencia drawio](https://github.com/user-attachments/assets/3adc7714-477e-44e8-843a-b874f2962232)
 
 # Diagrama de Classes
 
