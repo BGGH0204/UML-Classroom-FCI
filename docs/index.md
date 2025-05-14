@@ -126,7 +126,7 @@
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Classe drawio](https://github.com/user-attachments/assets/079d4465-17ea-4c8e-9b30-1e3153f029b7)
 
 # Diagrama de Estados
 
