@@ -130,7 +130,7 @@
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Estado drawio](https://github.com/user-attachments/assets/57662c94-c37a-4df5-9f9c-a7291dc8b8ff)
 
 # Diagrama de Implantação
 
