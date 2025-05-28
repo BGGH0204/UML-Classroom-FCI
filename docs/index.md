@@ -134,7 +134,7 @@
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![implementacao drawio](https://github.com/user-attachments/assets/add6da70-d4f1-49d8-9867-b06c645810fa)
 
 # Referências
 
