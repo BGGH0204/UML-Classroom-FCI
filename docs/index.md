@@ -131,7 +131,8 @@
 
 # Diagrama de Estados
 
-![Estado drawio](https://github.com/user-attachments/assets/57662c94-c37a-4df5-9f9c-a7291dc8b8ff)
+![Estados drawio](https://github.com/user-attachments/assets/ab6b6147-c99b-404b-815d-4a293c526196)
+
 
 # Diagrama de Implantação
 
