@@ -126,7 +126,8 @@
 
 # Diagrama de Classes
 
-![Classe drawio](https://github.com/user-attachments/assets/079d4465-17ea-4c8e-9b30-1e3153f029b7)
+![Diagrama_Classes drawio](https://github.com/user-attachments/assets/b159765c-18b8-4a23-8712-d9dc8b5b881f)
+
 
 # Diagrama de Estados
 
