@@ -67,9 +67,11 @@
 |RNF9| Eficiência Energética| Os drones devem otimizar o consumo de bateria utilizando algoritmos de inteligência artificial para gestão de energia.|
 |RNF10| Log e Auditoria| Os logs devem ser armazenados por no mínimo 05 anos e protegidos contra alteração ou exclusão.|
 
+
 # Diagrama de Atividades (Fase II)
 
 ![diagrama](https://github.com/user-attachments/assets/3441ac48-9478-4d90-aee6-326a47ad287d)
+
 
 # Diagrama de Casos de Uso (Fase III)
 
@@ -120,9 +122,11 @@
 |-|15- O drone retorna com segurança à base de controle.|
 |-|16- O drone aterrissa na base.|
 
+
 # Diagrama de Sequência (Fase V)
 
 ![Sequencia drawio](https://github.com/user-attachments/assets/3adc7714-477e-44e8-843a-b874f2962232)
+
 
 # Diagrama de Classes (Fase VI)
 
