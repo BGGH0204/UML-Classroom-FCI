@@ -36,7 +36,7 @@
 
 *A Securus Dynamics está desenvolvendo o Falcão Sombrio, um novo sistema que permitirá o controle remoto e autônomo de seus drones por meio de uma rede de servidores distribuídos e uma interface avançada. O projeto enfrenta desafios como segurança, concorrência e tempo real nos sistemas operacionais, além de questões de armazenamento distribuído, replicação e auditoria nos bancos de dados. Diante de falhas na arquitetura atual, a empresa contratou a Consultoria Cyber Bullet System (Turma 4G) para reformular toda a estrutura de software e definir um novo modelo de banco de dados que suporte as operações críticas dos drones.*
 
-# Análise de Requisitos Funcionais e Não-Funcionais
+# Análise de Requisitos Funcionais e Não-Funcionais (Fase I)
 
  <ins> **Requisitos Funcionais:** </ins>
 | ID | RF | Descrição |
@@ -67,16 +67,16 @@
 |RNF9| Eficiência Energética| Os drones devem otimizar o consumo de bateria utilizando algoritmos de inteligência artificial para gestão de energia.|
 |RNF10| Log e Auditoria| Os logs devem ser armazenados por no mínimo 05 anos e protegidos contra alteração ou exclusão.|
 
-# Diagrama de Atividades Fase II
+# Diagrama de Atividades (Fase II)
 
 ![diagrama](https://github.com/user-attachments/assets/3441ac48-9478-4d90-aee6-326a47ad287d)
 
-# Diagrama de Casos de Uso Fase III
+# Diagrama de Casos de Uso (Fase III)
 
 ![CasosDeUso](https://github.com/user-attachments/assets/6f8e62ce-7976-4843-aa66-bbe842688690)
 
 
-# Descrição dos Casos de Uso Fase IV
+# Descrição dos Casos de Uso (Fase IV)
 
  <ins> **Requisitos dos Casos de Uso:** </ins>
 |Ator | Descrição |
@@ -120,21 +120,21 @@
 |-|15- O drone retorna com segurança à base de controle.|
 |-|16- O drone aterrissa na base.|
 
-# Diagrama de Sequência Fase V
+# Diagrama de Sequência (Fase V)
 
 ![Sequencia drawio](https://github.com/user-attachments/assets/3adc7714-477e-44e8-843a-b874f2962232)
 
-# Diagrama de Classes Fase VI
+# Diagrama de Classes (Fase VI)
 
 ![Diagrama_Classes drawio](https://github.com/user-attachments/assets/b159765c-18b8-4a23-8712-d9dc8b5b881f)
 
 
-# Diagrama de Estados Fase VII
+# Diagrama de Estados (Fase VII)
 
 ![Estados drawio](https://github.com/user-attachments/assets/ab6b6147-c99b-404b-815d-4a293c526196)
 
 
-# Diagrama de Implantação Fase VIII
+# Diagrama de Implantação (Fase VIII)
 
 ![implementacao drawio](https://github.com/user-attachments/assets/add6da70-d4f1-49d8-9867-b06c645810fa)
 
