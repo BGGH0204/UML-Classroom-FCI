@@ -37,7 +37,7 @@ Aluno 4: Henrique Jeam Ferreira Lima
 
 # Documentação
 
-Os arquivos da documentação deste projeto, incluindo todos os diagramas, estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/grupoBGGH-PS/blob/master/docs/index.md**
+Os arquivos da documentação deste projeto, incluindo todos os diagramas, estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **[https://<usuario>.github.io/grupoBGGH-PS/blob/master/docs/index.md](https://github.com/BGGH0204/grupoBGGH-PS/blob/master/docs/index.md)**
 
 
 
